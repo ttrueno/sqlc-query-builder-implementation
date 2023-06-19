@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS dogs (
+   id BIGSERIAL PRIMARY KEY,
+   name TEXT NOT NULL,
+   breed TEXT NOT NULL DEFAULT 'outbred'
+);
