@@ -1,3 +1,3 @@
 # SQLC-query-builder-implementation-example
 
-* usage example is cmd/main/main.go
+* usage example is in cmd/main/main.go
